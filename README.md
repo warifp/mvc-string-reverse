@@ -1,4 +1,4 @@
-# String Reverse
+# MVC String Reverse
 
 This is a simple Node.js package that provides a function to reverse a string using the Model-View-Controller (MVC) pattern.
 
